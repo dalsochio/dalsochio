@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8" />
+	<link rel="icon" href="%sveltekit.assets%/favicon.png" />
+	<meta name="viewport" content="width=device-width" />
+
+	<link rel="preconnect" href="https://rsms.me/">
+	<link rel="stylesheet" href="https://rsms.me/inter/inter.css">
+
+	<style>
+		:root {
+			font-family: 'Inter', sans-serif;
+		}
+
+		@supports (font-variation-settings: normal) {
+			:root {
+				font-family: 'Inter var', sans-serif;
+			}
+		}
+	</style>
+
+	%sveltekit.head%
+</head>
+
+<body data-sveltekit-preload-data="hover"
+	class="max-w-screen min-h-screen bg-gradient-to-b from-acapulco-300 to-acapulco-100 dark:from-acapulco-600 dark:to-acapulco-400 text-gray-800 dark:text-gray-200">
+	%sveltekit.body%
+</body>
+
+</html>
