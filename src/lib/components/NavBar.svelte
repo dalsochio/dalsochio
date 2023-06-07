@@ -21,6 +21,7 @@
 		</a>
 		<div class="flex flex-row gap-4 grow">
 			<a href="/blog">Blog</a>
+			<a href="/about">Sobre mim</a>
 			{#each Array(5) as _, i}
 				<a href="/">Link {i}</a>
 			{/each}
