@@ -1,3 +1,12 @@
-// since there's no dynamic data here, we can prerender
-// it so that it gets served as a static asset in production
+import { browser } from '$app/environment'
+import '$lib/i18n' // Import to initialize. Important :)
+import { locale, waitLocale } from 'svelte-i18n'
+
+export const load = async () => {
+    if (browser) {
+        locale.set(window.navigator.language)
+    }
+    await waitLocale()
+}
+
 export const prerender = true;

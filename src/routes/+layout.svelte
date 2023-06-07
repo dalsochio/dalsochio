@@ -1,13 +1,15 @@
 <script>
 	import '../app.postcss';
-	import NavBar from '../lib/components/NavBar.svelte';
 	import './styles.css';
+	import NavBar from '../lib/components/NavBar.svelte';
+	import Footer from '../lib/components/Footer.svelte';
 </script>
 
 <NavBar />
-<section class="mt-8 container mx-auto">
+<section class="grow container mx-auto">
 	<slot />
 </section>
+<Footer/>
 
 <style>
 </style>
