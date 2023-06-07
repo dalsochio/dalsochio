@@ -4,12 +4,10 @@
 	import './styles.css';
 </script>
 
-<main>
-	<NavBar />
-	<section class="mt-8 container mx-auto">
-		<slot />
-	</section>
-</main>
+<NavBar />
+<section class="mt-8 container mx-auto">
+	<slot />
+</section>
 
 <style>
 </style>
