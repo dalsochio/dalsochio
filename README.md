@@ -8,4 +8,5 @@ Você pode entrar em contato comigo para discutir possíveis colaborações ou p
 
 Fique à vontade para explorar e, se tiver alguma dúvida, não hesite em entrar em contato. Obrigado pela visita!
 
-Acesse meu site: [https://dalsochio.com](https://dalsochio.com)
+Acesse meu site: [https://dalsochio.com](https://dalsochio.com) 
+*Site ainda em construção.
