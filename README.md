@@ -1,12 +1,13 @@
-# Bem-vindo ao meu portfolio!
+Hello there! 👋 I'm a Full Stack Developer passionate about creating efficient and innovative web solutions.
 
-Este é um espaço pessoal para compartilhar produções e conhecimentos. Meu objetivo principal é desenvolver um portfólio que possa ajudar outras pessoas que têm interesse ou trabalham na área.
+### 💻 Technologies
+- Front-end: Vue.js, React, Svelte, SvelteKit, Tailwind CSS
+- Back-end: PHP (Laravel), Node.js
+- Databases: SQL, NoSQL
+- Tools: Docker, Git, GitHub
 
-Meu GitHub é uma coleção de produções próprias, que refletem minhas habilidades e conhecimentos adquiridos ao longo do tempo. Além disso, estou sempre aberto a sugestões e críticas construtivas para melhorar o que faço.
+### 🚀 About me
+I focus on optimization, security, and long-term thinking for projects. Experienced in technical leadership and team management. Always seeking to learn and apply new technologies to evolve as a developer.
 
-Você pode entrar em contato comigo para discutir possíveis colaborações ou projetos.
-
-Fique à vontade para explorar e, se tiver alguma dúvida, não hesite em entrar em contato. Obrigado pela visita!
-
-Acesse meu site: [https://dalsochio.com](https://dalsochio.com) 
-*Site ainda em construção.
+### 📫 Contact
+thiago@dalsochio.com.br
