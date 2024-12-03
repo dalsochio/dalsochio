@@ -1,9 +1,9 @@
 Hello there! 👋 I'm a Full Stack Developer passionate about creating efficient and innovative web solutions.
 
 ### 💻 Technologies
-- Front-end: Vue.js, React, Svelte, SvelteKit, Tailwind CSS
-- Back-end: PHP (Laravel), Node.js
-- Databases: SQL, NoSQL
+- Front-end: HTMX, Vue.js, React, Svelte, SvelteKit, Tailwind CSS
+- Back-end: PHP (Laravel), Slim Framework, Node.js
+- Databases: SQL, NoSQL, Redis
 - Tools: Docker, Git, GitHub
 
 ### 🚀 About me
