@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog - Thiago Dalsochio</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../assets/css/style.css">
+</head>
+<body class="blog-page">
+    <header class="blog-header">
+        <a href="../index.html" class="blog-author">
+            <img src="https://gravatar.com/avatar/afd4e0f178b9ae51254bf1edf5d3e283c7cb990d18f99ad2b4fb90e9bc48f075?s=160" alt="Thiago Dalsochio" class="blog-author-img">
+            <span>Thiago Dalsochio</span>
+        </a>
+    </header>
+    <div id="blog-app"></div>
+    <script type="module">
+        import { inicializarBlog } from '../assets/js/main.js';
+        inicializarBlog();
+    </script>
+</body>
+</html>
