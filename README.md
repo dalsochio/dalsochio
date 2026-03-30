@@ -1,12 +1,21 @@
-Hello there! 👋 I'm a Full Stack Developer passionate about creating efficient and innovative web solutions.
+# Hey, I'm Thiago 👋
 
-### 💻 Technologies
-- Front-end: HTMX, Vue.js, React, SvelteKit, Tailwind CSS
-- Back-end: PHP and Node.js
-- Databases: SQL, NoSQL, Redis
+Full-stack developer from Brazil. I build web platforms end-to-end — mostly in PHP and JavaScript.
 
-### 🚀 About me
-I focus on optimization, security, and long-term thinking for projects. Experienced in technical leadership and team management. Always seeking to learn and apply new technologies to evolve as a developer.
+Right now I'm working on two things: a cloud browser automation platform (Docker containers, Redis queues, 50+ VMs) and modernizing a legacy government system from Symfony 1 to Angular + PHP Slim.
 
-### 📫 Contact
-thiago@dalsochio.com.br
+### What I work with
+
+- **Frontend:** SvelteKit, Vue 3, Angular, React, Tailwind CSS
+- **Backend:** PHP (Laravel, Slim), Node.js, Bun
+- **Databases:** PostgreSQL, MariaDB, Redis/Valkey, SQL Server
+- **Infrastructure:** Docker, GitHub Actions, Hyper-V
+- **Other:** Web Scraping, Browser Automation, Geospatial (Leaflet, Turf.js), AI Agent Workflows
+
+### Previously
+
+Led a 10-person dev team at SGBr Sistemas. Built geospatial interfaces with Google Earth Engine and OpenCV at Appix. Spent 3 years as the sole IT guy at a company with 200+ machines and 50+ Hyper-V VMs.
+
+### Contact
+
+thiago@dalsochio.com · [LinkedIn](https://linkedin.com/in/thiagodalsochio)
